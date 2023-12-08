@@ -2,6 +2,7 @@
   "name": "sslcommerz-ts",
   "version": "0.0.1",
   "description": "Node module for SSLCommerz",
+  "private": false,
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
