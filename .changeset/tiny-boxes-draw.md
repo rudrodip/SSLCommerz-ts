@@ -1,5 +1,0 @@
----
-"sslcommerz-ts": patch
----
-
-updated
