@@ -17,6 +17,10 @@
   },
   "author": "rudrodip",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rudrodip/SSLCommerz-ts"
+  },
   "devDependencies": {
     "@changesets/cli": "^2.27.1",
     "tsup": "^8.0.1",
