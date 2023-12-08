@@ -12,7 +12,7 @@
     "build": "tsup src/index.ts --format cjs,esm --dts",
     "lint": "tsc",
     "ci": "yarn lint && yarn test && yarn build",
-    "release": "yarn lint && yarn test && yarn build && changesets publish"
+    "release": "yarn lint && yarn test && yarn build && changeset publish"
   },
   "author": "rudrodip",
   "license": "MIT",
