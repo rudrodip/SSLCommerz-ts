@@ -1,4 +1,4 @@
-# [SSLCommerz - Node.js Library](https://www.npmjs.com/package/sslcommerz-ts)
+# [SSLCommerz - Node.js Library - Typscript](https://www.npmjs.com/package/sslcommerz-ts)
 
 ## Installation
 
