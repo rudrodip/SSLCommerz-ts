@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "description": "Node module for SSLCommerz",
   "private": false,
-  "type": "module",
+  "type": "commonjs",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",

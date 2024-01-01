@@ -11,7 +11,7 @@ interface SslCommerzPaymentOptions {
   live?: boolean;
 }
 
-class SslCommerzPayment {
+export default class SslCommerzPayment {
   private baseURL: string;
   private initURL: string;
   private validationURL: string;
@@ -129,5 +129,3 @@ interface BuildConfigOptions<T> {
   method: HttpMethod;
   data?: T;
 }
-
-export default SslCommerzPayment;
